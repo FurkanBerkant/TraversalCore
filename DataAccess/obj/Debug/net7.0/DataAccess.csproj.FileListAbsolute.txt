@@ -1,0 +1,17 @@
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\bin\Debug\net7.0\Entity.dll
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\bin\Debug\net7.0\Entity.pdb
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\Users\BerkantKubat\source\repos\TraversalCore\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
