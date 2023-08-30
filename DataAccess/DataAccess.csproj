@@ -24,10 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Abstract\" />
-    <Folder Include="EntityFramework\" />
     <Folder Include="Concrete\" />
-    <Folder Include="Repository\" />
   </ItemGroup>
 
 </Project>
