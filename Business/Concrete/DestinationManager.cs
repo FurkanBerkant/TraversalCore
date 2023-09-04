@@ -35,7 +35,7 @@ namespace Business.Concrete
 
         public Destination TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _destinationDal.GetById(id);
         }
 
         public void TUpdate(Destination entity)

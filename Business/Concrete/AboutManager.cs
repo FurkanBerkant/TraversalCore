@@ -33,7 +33,7 @@ namespace Business.Concrete
 
         public About TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _aboutDal.GetById(id);
         }
 
         public void TUpdate(About entity)

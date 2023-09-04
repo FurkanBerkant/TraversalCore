@@ -35,7 +35,7 @@ namespace Business.Concrete
 
         public Testimonial TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _testimonialDal.GetById(id);
         }
 
         public void TUpdate(Testimonial entity)

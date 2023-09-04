@@ -35,7 +35,7 @@ namespace Business.Concrete
 
         public SubAbout TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _subAboutDal.GetById(id);
         }
 
         public void TUpdate(SubAbout entity)

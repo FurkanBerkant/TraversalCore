@@ -35,7 +35,7 @@ namespace Business.Concrete
 
         public Feature TGetById(int id)
         {
-            throw new NotImplementedException();
+            return _featureDal.GetById(id);
         }
 
         public void TUpdate(Feature entity)
